@@ -1,9 +1,9 @@
-# analysis
+Jupyter notebook
 
 ```
-docker build -t myimage .
-docker run -p 8888:8888 myimage
+docker build -t XXX .
+docker run -p 8888:8888 XXX
 
 
-http://localhost:8888
+http://localhost:8888/?token=XXXX
 ```
